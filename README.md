@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bazylgo, or Gabriel
-- 👀 I’m interested in the Cloud, Python, C and Linux.
+- 👀 I’m interested in the Cloud, Python, and Linux.
 - 🌱 I’m currently learning about Docker, Kubernetes, and Python.
 - 📫 Reach me on my LinkedIn profile: https://www.linkedin.com/in/gabriel-felix-a1980a12a
 
